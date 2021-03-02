@@ -1,9 +1,9 @@
 %buptreport.cls
 \NeedsTeXFormat{LaTeX2e}[1999/12/01]
 \ProvidesClass{buptreport}
-    [2021/02/24 v0.3 The Report Template Designed For BUPT-SCIE]
+    [2021/02/24 v0.5 The Report Template Designed For BUPT-SCIE]
 \typeout{The Report Template Designed For BUPT-SCIE}
-\def\BUPTversion{v0.3}
+\def\BUPTversion{v0.5}
 
 \RequirePackage{xkeyval}
 \RequirePackage{etoolbox}
